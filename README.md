@@ -137,9 +137,7 @@ $ echo $MOTTO
 
 <a href="mailto:wassaphas.th@gmail.com"><img src="https://img.shields.io/badge/EMAIL-wassaphas.th%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="email" /></a>
 <a href="https://github.com/fonewspyy"><img src="https://img.shields.io/badge/GITHUB-fonewspyy-0D1117?style=flat-square&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="github" /></a>
-<!-- LinkedIn: replace YOUR-HANDLE below with your real handle, then uncomment
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-connect-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="linkedin" /></a>
--->
+<a href="https://www.linkedin.com/in/wassaphas20"><img src="https://img.shields.io/badge/LINKEDIN-wassaphas20-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="linkedin" /></a>
 
 </div>
 
