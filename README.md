@@ -81,19 +81,6 @@ $ echo $MOTTO
 
 ---
 
-## `$ ls ~/projects`
-
-| | repo | stack | what it does |
-|:-:|---|---|---|
-| `▸` | **[Bot_trade_AI](https://github.com/fonewspyy/Bot_trade_AI)** | `Python` | Algorithmic trading bot driven by AI signals |
-| `▸` | **[Motor_management_ERP](https://github.com/fonewspyy/Motor_management_ERP)** | `Full-Stack` | ERP for motor fleet & maintenance management |
-| `▸` | **[SaverEMS_Siriraj](https://github.com/fonewspyy/SaverEMS_Siriraj)** | `EMS / IoT` | Energy management system deployment for Siriraj |
-| `▸` | **[Site_management_SaverEMS](https://github.com/fonewspyy/Site_management_SaverEMS)** | `Full-Stack` | Multi-site control panel for the SaverEMS platform |
-| `▸` | **[datawow_test](https://github.com/fonewspyy/datawow_test)** | `TypeScript` | Full-stack technical assessment build |
-| `▸` | **claude-orchestra** `private` | `TypeScript` | Multi-agent orchestration layer for Claude workflows |
-
----
-
 ## `$ ./gh-stats --user fonewspyy`
 
 <div align="center">
